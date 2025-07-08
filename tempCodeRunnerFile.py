@@ -1,2 +1,1 @@
-
-# newBoy.game="PubG"
+mySet.copy()
