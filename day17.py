@@ -35,13 +35,13 @@
 # num3=7
 # num4=9
 # print(num3+num4)
-import math
+# import math
 
-def area(r):
-    areaOfcircle=(math.pi)*r*r
-    print(f"The area of circle is",areaOfcircle)
+# def area(r):
+#     areaOfcircle=(math.pi)*r*r
+#     print(f"The area of circle is",areaOfcircle)
 
-area(7)
+# area(7)
 
 
 # area of reactabgle
