@@ -1,1 +1,1 @@
-mySet.copy()
+print(x)

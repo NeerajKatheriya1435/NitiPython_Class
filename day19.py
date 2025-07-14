@@ -19,7 +19,7 @@ import os
 
 # os.rmdir("niti")
 
-if os.path.exists("data.txt"):
-    print("File exists")
-else:
-    print("Not found")
+# if os.path.exists("data.txt"):
+#     print("File exists")
+# else:
+#     print("Not found")
