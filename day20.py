@@ -26,5 +26,5 @@
 
 with open("manik.txt","r+") as f:
     cont=f.read()
-    f.close()
     print(cont)
+
