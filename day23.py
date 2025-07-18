@@ -31,6 +31,7 @@ class Student:
     def show(self):
         print("Name:", self.name)
         print("Marks:", self.marks)
+
 s1 = Student("Neeraj", 90) # object created, constructor
 s1.show()
 
