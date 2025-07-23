@@ -32,3 +32,5 @@ emp1=Employee("Shubham",45,"English")
 # emp1.details()
 # print(emp1.name)
 # print(emp1._lang)
+
+# print(Employee.__dir__())
