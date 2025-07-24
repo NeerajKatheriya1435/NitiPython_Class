@@ -22,8 +22,35 @@
 
 
 # print(Animal.__dir__(cat))
-
-list1=[6,8,5]
+# 
+# list1=[6,8,5]
 
 # help(list1.sort)
-help(list1.append)
+# help(list1.append)
+
+# class Student:
+#     school_name = "Tech Mech Institute"
+#     def __init__(self, name):
+#         self.name=name
+    
+#     def chnageDetail(self,updatedName):
+#         self.name=updatedName
+
+#     @classmethod
+#     def details(cls):
+#         cls.school_name="My School"
+
+#     def showDetails(self):
+#         self.school_name="GOVT Polytechnic"
+#         print(f"Hello {self.name} and my school is {self.school_name}")
+
+# newObj=Student("Niti Tiwari")
+
+# newObj.showDetails()  # "Hello Niti Tiwari and my school is GOVT Polytechnic"
+# print(newObj.school_name) # "GOVT Polytechnic"
+# print(Student.school_name) # "Tech Mech Institute"
+
+# newObj.details()  
+# newObj.showDetails() # # "Hello Niti Tiwari and my school is GOVT Polytechnic"
+# print(newObj.school_name)  # "GOVT Polytechnic"
+# print(Student.school_name) # "My School"
